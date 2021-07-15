@@ -1,0 +1,16 @@
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.exe
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.deps.json
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.runtimeconfig.json
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.runtimeconfig.dev.json
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.dll
+C:\Users\katia\calculo\bin\Debug\net5.0\ref\calculo.dll
+C:\Users\katia\calculo\bin\Debug\net5.0\calculo.pdb
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.csproj.AssemblyReference.cache
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.AssemblyInfoInputs.cache
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.AssemblyInfo.cs
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.csproj.CoreCompileInputs.cache
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.dll
+C:\Users\katia\calculo\obj\Debug\net5.0\ref\calculo.dll
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.pdb
+C:\Users\katia\calculo\obj\Debug\net5.0\calculo.genruntimeconfig.cache
