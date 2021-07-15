@@ -1,0 +1,16 @@
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.csproj.AssemblyReference.cache
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.AssemblyInfoInputs.cache
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.AssemblyInfo.cs
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.csproj.CoreCompileInputs.cache
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.exe
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.deps.json
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.runtimeconfig.json
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.runtimeconfig.dev.json
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.dll
+C:\Users\katia\cachorro\bin\Debug\net5.0\ref\cachorro.dll
+C:\Users\katia\cachorro\bin\Debug\net5.0\cachorro.pdb
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.dll
+C:\Users\katia\cachorro\obj\Debug\net5.0\ref\cachorro.dll
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.pdb
+C:\Users\katia\cachorro\obj\Debug\net5.0\cachorro.genruntimeconfig.cache
